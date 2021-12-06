@@ -6,17 +6,11 @@ const Page = () => {
     <>
       <AppLayout>
         {/* <blockquote> */}
-        <h1>Welcome to the PlanetScale Next.js Starter App!</h1>
-        <p>
-          This is an example site to demonstrate how to use{" "}
-          <a href={`https://next-auth.js.org`}>NextAuth.js</a> for
-          authentication with PlanetScale and Prisma.
-        </p>
+        <h1>DOJO DAO</h1>
         <blockquote>
-          <p>  
-            You can find how to get started{" "}
-            <a href={`https://github.com/planetscale/nextjs-planetscale-starter`}>here</a>.
-          </p>
+        <p>
+          The future o blockchain Gaming :D
+        </p>
         </blockquote>
       </AppLayout>
     </>
